@@ -1,4 +1,7 @@
-This is Arya-R
+
+<p align="center">
+  This is Arya-R
+</p>
 
 
 ## 🌐 Socials:
@@ -24,19 +27,19 @@ This is Arya-R
 
 - PROJECT 1 [GuestGenie](https://guestgenie.netlify.app/)
 
-- 🌱 I’m currently learning **everything..**
-
 - PROJECT 2 [AsukaNSFW](https://asukaarya.netlify.app/)
 
 - PROJECT 3 [EthicEye](https://github.com/AryaR2705/EthicEye)
+  
+- 🌱 currently learning **everything...**
 
 - 👨‍💻 All of my projects are available at [https://aryar.netlify.app/](https://aryar.netlify.app/)
 
 - 💬 Ask me about **Psychology**
 
-- 📫 How to reach me **aryarramteke@gmail.com**
+- 📫 How to reach me **aryarramteke@gmail.com** & **arya.22110058@viit.ac.in**
 
-- 📄 Know about my experiences [https://arya27052003.tiiny.site/](https://arya27052003.tiiny.site/)
+- 📄 Know about my experiences [**RESUME**](https://arya27052003.tiiny.site/)
 
 - ⚡ Fun fact **phimosis is common in india**
 
