@@ -3,7 +3,7 @@
 <span style="font-size:10em;">This is Arya_R</span>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=daa520&style=flat" alt="aryar2705" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=a28834&style=flat" alt="aryar2705" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryar2705" alt="aryar2705" /></a> </p>
 
