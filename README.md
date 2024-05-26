@@ -22,13 +22,13 @@ This is Arya-R
 
 [![](https://visitcount.itsvg.in/api?id=AryaR2705&icon=5&color=2)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [GuestGenie](https://guestgenie.netlify.app/)
+- PROJECT 1 [GuestGenie](https://guestgenie.netlify.app/)
 
 - 🌱 I’m currently learning **everything..**
 
-- 👯 I’m looking to collaborate on [AsukaNSFW](https://asukaarya.netlify.app/)
+- PROJECT 2 [AsukaNSFW](https://asukaarya.netlify.app/)
 
-- 🤝 I’m looking for help with [EthicEye](https://github.com/AryaR2705/EthicEye)
+- PROJECT 3 [EthicEye](https://github.com/AryaR2705/EthicEye)
 
 - 👨‍💻 All of my projects are available at [https://aryar.netlify.app/](https://aryar.netlify.app/)
 
