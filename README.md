@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=a28834&style=flat" alt="aryar2705" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryar2705" alt="aryar2705" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=AryaR2705&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -45,5 +45,3 @@
 - 📄 Know about my experiences [*RESUME*](https://arya27052003.tiiny.site/) or [*RESUME*](https://aryaresume.netlify.app/)
 
 - ⚡ Fun fact **phimosis is common in india**
-
-
