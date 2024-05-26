@@ -4,7 +4,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=AryaR2705&icon=5&color=2)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=FDE37F&style=flat" alt="aryar2705" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=C4AB46&style=flat" alt="aryar2705" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryar2705" alt="aryar2705" /></a> </p>
 
