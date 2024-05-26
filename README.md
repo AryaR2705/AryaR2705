@@ -1,6 +1,6 @@
 
 <p align="center">
-<span style="font-size:10em;">This is Arya_R</span>
+<img width="844" alt="Screenshot 2024-05-26 at 4 49 54 PM" src="https://github.com/AryaR2705/AryaR2705/assets/139691040/fd08be33-2707-48b0-a2ec-3920d06f7769">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryar2705&label=Profile%20views&color=a28834&style=flat" alt="aryar2705" /> </p>
