@@ -1,6 +1,6 @@
 
 <p align="center">
-  <div>**This is Arya-R**</div>
+<span style="font-size:0.5em;">Text goes here</span>
 </p>
 
 
