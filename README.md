@@ -1,12 +1,10 @@
-# 💫 About Me:
-This is Arya R
+This is Arya-R
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryar_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-ramteke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/AryaR2003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Arya Ramteke)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryar_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arya-ramteke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AryaR2003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](Arya Ramteke)
 
 ## Coding:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/arya_22110058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arya_22110058" height="50" width="60" /></a>
 <a href="https://codeforces.com/profile/arya_ramteke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arya_ramteke" height="50" width="60" /></a>
@@ -22,7 +20,6 @@ This is Arya R
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AryaR2705&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaR2705&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=AryaR2705&icon=5&color=2)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [GuestGenie](https://guestgenie.netlify.app/)
