@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **aryarramteke@gmail.com** & **arya.22110058@viit.ac.in**
 
-- 📄 Know about my experiences [*RESUME**](https://arya27052003.tiiny.site/) or [*RESUME**](https://aryaresume.netlify.app/)
+- 📄 Know about my experiences [*RESUME*](https://arya27052003.tiiny.site/) or [*RESUME*](https://aryaresume.netlify.app/)
 
 - ⚡ Fun fact **phimosis is common in india**
 
